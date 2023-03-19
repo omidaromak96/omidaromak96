@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @omidaromak96
-- 👀 I’m interested in wireless comuunication, python and matlab
+- 👀 I’m interested in wireless comuunication, python, C/C++ and matlab
 - 🌱 I’m currently learning python and matlab
 
 <!---
